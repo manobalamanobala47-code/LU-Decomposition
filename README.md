@@ -47,7 +47,7 @@ print(x)
 
 ## Output:
 <img width="1920" height="1080" alt="Screenshot 2025-11-19 143631" src="https://github.com/user-attachments/assets/34b5ca0a-f070-414a-94c7-bdd4247538e6" />
-
+<img width="1920" height="1080" alt="Screenshot 2025-11-19 143647" src="https://github.com/user-attachments/assets/acae973f-f264-423f-9a60-bd17abf0d2ea" />
 
 
 ## Result:
